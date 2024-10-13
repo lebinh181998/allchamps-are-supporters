@@ -849,8 +849,12 @@ const champions = [
 randomButton.addEventListener("click", () => {
   const rd = Math.random();
   const nb = Math.round(rd * champions.length);
+
+  let [first,...words] = champions[nb].name.split("");
+  let name = [first.toUpperCase(), ...words].join("");
+  
   contentElement.style.display = "block";
-  nameElement.textContent = champions[nb].name;
+  nameElement.textContent = name;
   imgElement.src = champions[nb].image;
   alert("Good luck!!!");
 });
