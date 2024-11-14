@@ -12,7 +12,7 @@ const champions = [
   {
     name: "ahri",
     image:
-      "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live_/55e7e901b1f69d72804665cfbeb1f4f59c8fa877-496x560.jpg?auto=format&fit=fill&q=80&w=289",
+      "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/55e7e901b1f69d72804665cfbeb1f4f59c8fa877-496x560.jpg?auto=format&fit=fill&q=80&w=289",
   },
   {
     name: "akali",
@@ -28,6 +28,11 @@ const champions = [
     name: "alistar",
     image:
       "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/da8cefee5b85bca51360ccc1635ef5b0f6967767-496x560.jpg?auto=format&fit=fill&q=80&w=289",
+  },
+  {
+    name: "ambessa",
+    image:
+      "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/1b20e5e8cea542296a62b09dd4a67e81570ce80c-496x560.png?auto=format&fit=fill&q=80&w=289",
   },
   {
     name: "amumu",
