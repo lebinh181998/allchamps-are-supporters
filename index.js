@@ -410,6 +410,11 @@ const champions = [
       "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6843e7b0592caf9026f032161ddab664148a0232-496x560.jpg?auto=format&fit=fill&q=80&w=289",
   },
   {
+    name: "mel",
+    image:
+      "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data/52ef003ccb9a9464bbb87d72ded0e4ae11b4fe32-496x560.png?auto=format&fit=fill&q=80&w=290",
+  },
+  {
     name: "milio",
     image:
       "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/28bcae8793c10de4c2e0fc85ff71b10d6d880d74-496x560.jpg?auto=format&fit=fill&q=80&w=289",
