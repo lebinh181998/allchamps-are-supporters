@@ -825,6 +825,11 @@ const champions = [
       "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7a1e9d076808a8f08f7fd36d54e06da7ae36c363-496x560.jpg?auto=format&fit=fill&q=80&w=289",
   },
   {
+    name: "zaahen",
+    image:
+      "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eb649092d2b70f9d9c417c1007425acd5634013d-956x1080.jpg?accountingTag=LoL?auto=format&fit=fill&q=80&w=290",
+  },
+  {
     name: "zac",
     image:
       "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cd71555dbeeba66f40163e195b244869d5846f55-496x560.jpg?auto=format&fit=fill&q=80&w=289",
@@ -873,3 +878,4 @@ randomButton.addEventListener("click", () => {
   imgElement.src = champions[nb].image;
   alert("Good luck!!!");
 });
+
